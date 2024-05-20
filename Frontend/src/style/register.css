@@ -1,0 +1,12 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100dvh;
+
+}
+.register-form{
+    padding: 30px;
+    width: 30%;
+    border: 1px solid blanchedalmond;
+}
